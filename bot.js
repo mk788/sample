@@ -1,3 +1,4 @@
+//adding useless comment
 function saySomething() {
   var message = document.getElementById('message').value.toLowerCase();
   var conversation = document.getElementById('conversation');
